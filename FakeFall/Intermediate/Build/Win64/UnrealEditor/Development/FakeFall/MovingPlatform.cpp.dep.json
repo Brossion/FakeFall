@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\brossion\\documents\\unreal projects\\fakefall\\source\\fakefall\\movingplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\brossion\\documents\\unreal projects\\fakefall\\intermediate\\build\\win64\\fakefalleditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\brossion\\documents\\unreal projects\\fakefall\\intermediate\\build\\win64\\unrealeditor\\development\\fakefall\\definitions.fakefall.h",
+            "c:\\users\\brossion\\documents\\unreal projects\\fakefall\\source\\fakefall\\movingplatform.h",
+            "c:\\users\\brossion\\documents\\unreal projects\\fakefall\\intermediate\\build\\win64\\unrealeditor\\inc\\fakefall\\uht\\movingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

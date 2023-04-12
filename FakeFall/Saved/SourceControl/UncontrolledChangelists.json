@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Brossion/Documents/Unreal Projects/FakeFall/Content/Main.umap",
+				"C:/Users/Brossion/Documents/Unreal Projects/FakeFall/Content/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/FakeFall/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/FakeFall/Content/BP_MovingPlatform.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/FakeFall/Content/BP_PushingCube.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/FakeFall/Content/BP_FakeFallGameMode.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/FakeFall/Content/BP_RotatingPlatform.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/FakeFall/Content/BP_RotatingDoor.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/FakeFall/Content/BP_MovingPlatform1.uasset"
+			]
+		}
+	]
+}

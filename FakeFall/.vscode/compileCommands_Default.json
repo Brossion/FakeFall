@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\Brossion\\Documents\\Unreal Projects\\FakeFall\\Source\\FakeFall\\FakeFall.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Brossion\\Documents\\Unreal Projects\\FakeFall\\.vscode\\compileCommands_Default\\FakeFall.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Brossion\\Documents\\Unreal Projects\\FakeFall\\Source\\FakeFall\\FakeFall.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Brossion\\Documents\\Unreal Projects\\FakeFall\\.vscode\\compileCommands_Default\\FakeFall.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Brossion\\Documents\\Unreal Projects\\FakeFall\\Source\\FakeFall\\FakeFall.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Brossion\\Documents\\Unreal Projects\\FakeFall\\.vscode\\compileCommands_Default\\FakeFall.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Brossion\\Documents\\Unreal Projects\\FakeFall\\Source\\FakeFall\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Brossion\\Documents\\Unreal Projects\\FakeFall\\.vscode\\compileCommands_Default\\FakeFall.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Brossion\\Documents\\Unreal Projects\\FakeFall\\Source\\FakeFall\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Brossion\\Documents\\Unreal Projects\\FakeFall\\.vscode\\compileCommands_Default\\FakeFall.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]

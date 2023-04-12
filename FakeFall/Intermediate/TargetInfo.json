@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FakeFall",
+			"Path": "C:\\Users\\Brossion\\Documents\\Unreal Projects\\FakeFall\\Source\\FakeFall.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FakeFallEditor",
+			"Path": "C:\\Users\\Brossion\\Documents\\Unreal Projects\\FakeFall\\Source\\FakeFallEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FakeFall.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Brossion\Documents\Unreal Projects\FakeFall\Intermediate\Build\Win64\FakeFallEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\Brossion\Documents\Unreal Projects\FakeFall\Intermediate\Build\Win64\UnrealEditor\Development\FakeFall\FakeFall.init.gen.cpp.obj"
+"C:\Users\Brossion\Documents\Unreal Projects\FakeFall\Intermediate\Build\Win64\UnrealEditor\Development\FakeFall\MovingPlatform.gen.cpp.obj"
+"C:\Users\Brossion\Documents\Unreal Projects\FakeFall\Intermediate\Build\Win64\UnrealEditor\Development\FakeFall\FakeFall.cpp.obj"
+"C:\Users\Brossion\Documents\Unreal Projects\FakeFall\Intermediate\Build\Win64\UnrealEditor\Development\FakeFall\MovingPlatform.cpp.obj"
+"C:\Users\Brossion\Documents\Unreal Projects\FakeFall\Intermediate\Build\Win64\UnrealEditor\Development\FakeFall\Default.rc2.res"
+/OUT:"C:\Users\Brossion\Documents\Unreal Projects\FakeFall\Intermediate\Build\Win64\UnrealEditor\Development\FakeFall\UnrealEditor-FakeFall.lib"
